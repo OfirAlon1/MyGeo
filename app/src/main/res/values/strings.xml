@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyGeo</string>
+    <string name="action_settings">Settings</string>
+    <string name="history">history</string>
+    <string name="create_new_geo_location">create new geo-location</string>
+    <string name="geofence_transition_invalid_type">geofence_transition_invalid_type</string>
+
+    <string-array name="radius_spinner_array">
+        <item>Enter the radius</item>
+        <item>Exit the radius</item>
+        <item>Enter and exit the radius</item>
+    </string-array>
+</resources>
